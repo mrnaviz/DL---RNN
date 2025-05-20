@@ -29,7 +29,7 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: DEVESH S
+### Name: NAVEEN KUMAR B
 
 ### Register Number: 212222230091
 
